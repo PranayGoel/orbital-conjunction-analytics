@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+.streamlit/
+.venv/
+node_modules/
+*.log
+build/
+dist/
+data/*.parquet
